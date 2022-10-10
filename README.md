@@ -1,3 +1,3 @@
 # Quote Generator
 
-Plain text
+Plain text!
